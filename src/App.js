@@ -41,6 +41,7 @@ function App() {
             Away Touchdown</button>
           <button className="awayButtons__fieldGoal" onClick ={() => awayScoreCount(awayScore +3)}>
             Away Field Goal</button>
+
         </div>
 
       </section>
